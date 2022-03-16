@@ -1,0 +1,1 @@
+consistent naming method -> either camelCase or with underscores 
