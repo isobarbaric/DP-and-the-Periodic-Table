@@ -2,7 +2,7 @@
 from components.element import element
 from components.data_manip import extractor
 
-class PeriodicTable:
+class periodicTable:
     NUM_ELEMENTS = 119
 
     def __init__(self):
@@ -26,5 +26,5 @@ class PeriodicTable:
         self.process()
         self.present()
 
-periodicTable = PeriodicTable()
-periodicTable.main()
+PeriodicTable = periodicTable()
+PeriodicTable.main()

@@ -2,7 +2,7 @@ import json
 
 def extractor():
     elements = ''
-    with open("../ptable.json", 'r') as data:
+    with open("assets/ptable.json", 'r') as data:
         elements = json.load(data)
 
     rev_elem = [[-1, -1]]
