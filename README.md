@@ -58,8 +58,8 @@ python3 main.py
 ```
 for Windows:
 ```
-  cd Dynamic-Programming-and-the-Periodic-Table
-  pip install -r requirements.txt
-  python main.py
+cd Dynamic-Programming-and-the-Periodic-Table
+pip install -r requirements.txt
+python main.py
 ```
 The program should then execute! Cheers!
