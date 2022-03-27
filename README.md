@@ -2,8 +2,11 @@
 
 **more details about this project can be found [here](https://bit.ly/DP-PTable)**
 
-
-### Motivation and Description for the Project
+### Table of Contents
+1. [Motivation and Description](#motivation-and-description-for-this-project)
+2. [Try It Out Yourself!](#try-it-out-yourself)
+ 
+### Motivation and Description for this Project
 
 I first conceived the idea for this project in the midst of chemistry
 class seemingly out of random - we were going our unit on the periodic
