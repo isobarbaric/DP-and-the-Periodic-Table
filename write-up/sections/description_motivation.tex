@@ -1,0 +1,10 @@
+
+\section{Motivation and Description for the Project}
+
+I first conceived the idea for this project in the midst of chemistry class seemingly out of random - we were going our unit on the periodic table and we discussed shorthand notation. Shorthand notation is basically the crux of why the idea behind this project works. In case the reader is not familiar with shorthand notation, let me give a quick explanation of what shorthand notation (or atleast try to). \\
+
+Shorthand notation is a way to write the electronic configuration of an element using the previous noble gas as a starting point and then essentially just adding in the extra electrons for the current element. I hope that's a satisfactory explanation but just in case it's not clear, here's \href{https://www.youtube.com/watch?v=5mP0z1MAdCk}{a video} \cite{youtube_2020} to clear things up a bit. \\
+
+Its use in chemistry is mostly one of simplification - it helps express the electronic configuration of an element with relative ease compared to writing out the entire electronic configuration. For the purposes of this project, however, shorthand notation is basically the premise which makes dynamic programming relevant in this context. Given that the electronic configuration for an element can be determined using the previous noble gas, essentially with the electronic configuration for each element being a \vocab{state}, the noble gas configurations all serve as ways for \vocab{transitions}\footnote{This does not account for all anomalies that exist - there are certainly \emph{many} elemental exceptions.} - \vocab{states} and \vocab{transitions} are both terms associated with dynamic programming. \\ 
+
+Using this as well as the \vocab{Aufbau principle} to dictate the order in which shells were filled, I was able to successfully determine the electronic configurations for all elements using their respective previous noble gas as part of my transitions\footnote{Note that this does not account for elements that are exceptions to the Aufbau principle.}.
