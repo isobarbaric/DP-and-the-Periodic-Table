@@ -1,0 +1,599 @@
+{
+    "elements": [
+        {
+            "name": "Hydrogen",
+            "atomic_mass": 1.008,
+            "category": "diatomic nonmetal"
+        },
+        {
+            "name": "Helium",
+            "atomic_mass": 4.0026022,
+            "category": "noble gas"
+        },
+        {
+            "name": "Lithium",
+            "atomic_mass": 6.94,
+            "category": "alkali metal"
+        },
+        {
+            "name": "Beryllium",
+            "atomic_mass": 9.01218315,
+            "category": "alkaline earth metal"
+        },
+        {
+            "name": "Boron",
+            "atomic_mass": 10.81,
+            "category": "metalloid"
+        },
+        {
+            "name": "Carbon",
+            "atomic_mass": 12.011,
+            "category": "polyatomic nonmetal"
+        },
+        {
+            "name": "Nitrogen",
+            "atomic_mass": 14.007,
+            "category": "diatomic nonmetal"
+        },
+        {
+            "name": "Oxygen",
+            "atomic_mass": 15.999,
+            "category": "diatomic nonmetal"
+        },
+        {
+            "name": "Fluorine",
+            "atomic_mass": 18.9984031636,
+            "category": "diatomic nonmetal"
+        },
+        {
+            "name": "Neon",
+            "atomic_mass": 20.17976,
+            "category": "noble gas"
+        },
+        {
+            "name": "Sodium",
+            "atomic_mass": 22.989769282,
+            "category": "alkali metal"
+        },
+        {
+            "name": "Magnesium",
+            "atomic_mass": 24.305,
+            "category": "alkaline earth metal"
+        },
+        {
+            "name": "Aluminium",
+            "atomic_mass": 26.98153857,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Silicon",
+            "atomic_mass": 28.085,
+            "category": "metalloid"
+        },
+        {
+            "name": "Phosphorus",
+            "atomic_mass": 30.9737619985,
+            "category": "polyatomic nonmetal"
+        },
+        {
+            "name": "Sulfur",
+            "atomic_mass": 32.06,
+            "category": "polyatomic nonmetal"
+        },
+        {
+            "name": "Chlorine",
+            "atomic_mass": 35.45,
+            "category": "diatomic nonmetal"
+        },
+        {
+            "name": "Argon",
+            "atomic_mass": 39.9481,
+            "category": "noble gas"
+        },
+        {
+            "name": "Potassium",
+            "atomic_mass": 39.09831,
+            "category": "alkali metal"
+        },
+        {
+            "name": "Calcium",
+            "atomic_mass": 40.0784,
+            "category": "alkaline earth metal"
+        },
+        {
+            "name": "Scandium",
+            "atomic_mass": 44.9559085,
+            "category": "transition metal"
+        },
+        {
+            "name": "Titanium",
+            "atomic_mass": 47.8671,
+            "category": "transition metal"
+        },
+        {
+            "name": "Vanadium",
+            "atomic_mass": 50.94151,
+            "category": "transition metal"
+        },
+        {
+            "name": "Chromium",
+            "atomic_mass": 51.99616,
+            "category": "transition metal"
+        },
+        {
+            "name": "Manganese",
+            "atomic_mass": 54.9380443,
+            "category": "transition metal"
+        },
+        {
+            "name": "Iron",
+            "atomic_mass": 55.8452,
+            "category": "transition metal"
+        },
+        {
+            "name": "Cobalt",
+            "atomic_mass": 58.9331944,
+            "category": "transition metal"
+        },
+        {
+            "name": "Nickel",
+            "atomic_mass": 58.69344,
+            "category": "transition metal"
+        },
+        {
+            "name": "Copper",
+            "atomic_mass": 63.5463,
+            "category": "transition metal"
+        },
+        {
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "category": "transition metal"
+        },
+        {
+            "name": "Gallium",
+            "atomic_mass": 69.7231,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Germanium",
+            "atomic_mass": 72.6308,
+            "category": "metalloid"
+        },
+        {
+            "name": "Arsenic",
+            "atomic_mass": 74.9215956,
+            "category": "metalloid"
+        },
+        {
+            "name": "Selenium",
+            "atomic_mass": 78.9718,
+            "category": "polyatomic nonmetal"
+        },
+        {
+            "name": "Bromine",
+            "atomic_mass": 79.904,
+            "category": "diatomic nonmetal"
+        },
+        {
+            "name": "Krypton",
+            "atomic_mass": 83.7982,
+            "category": "noble gas"
+        },
+        {
+            "name": "Rubidium",
+            "atomic_mass": 85.46783,
+            "category": "alkali metal"
+        },
+        {
+            "name": "Strontium",
+            "atomic_mass": 87.621,
+            "category": "alkaline earth metal"
+        },
+        {
+            "name": "Yttrium",
+            "atomic_mass": 88.905842,
+            "category": "transition metal"
+        },
+        {
+            "name": "Zirconium",
+            "atomic_mass": 91.2242,
+            "category": "transition metal"
+        },
+        {
+            "name": "Niobium",
+            "atomic_mass": 92.906372,
+            "category": "transition metal"
+        },
+        {
+            "name": "Molybdenum",
+            "atomic_mass": 95.951,
+            "category": "transition metal"
+        },
+        {
+            "name": "Technetium",
+            "atomic_mass": 98,
+            "category": "transition metal"
+        },
+        {
+            "name": "Ruthenium",
+            "atomic_mass": 101.072,
+            "category": "transition metal"
+        },
+        {
+            "name": "Rhodium",
+            "atomic_mass": 102.905502,
+            "category": "transition metal"
+        },
+        {
+            "name": "Palladium",
+            "atomic_mass": 106.421,
+            "category": "transition metal"
+        },
+        {
+            "name": "Silver",
+            "atomic_mass": 107.86822,
+            "category": "transition metal"
+        },
+        {
+            "name": "Cadmium",
+            "atomic_mass": 112.4144,
+            "category": "transition metal"
+        },
+        {
+            "name": "Indium",
+            "atomic_mass": 114.8181,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Tin",
+            "atomic_mass": 118.7107,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Antimony",
+            "atomic_mass": 121.7601,
+            "category": "metalloid"
+        },
+        {
+            "name": "Tellurium",
+            "atomic_mass": 127.603,
+            "category": "metalloid"
+        },
+        {
+            "name": "Iodine",
+            "atomic_mass": 126.904473,
+            "category": "diatomic nonmetal"
+        },
+        {
+            "name": "Xenon",
+            "atomic_mass": 131.2936,
+            "category": "noble gas"
+        },
+        {
+            "name": "Cesium",
+            "atomic_mass": 132.905451966,
+            "category": "alkali metal"
+        },
+        {
+            "name": "Barium",
+            "atomic_mass": 137.3277,
+            "category": "alkaline earth metal"
+        },
+        {
+            "name": "Lanthanum",
+            "atomic_mass": 138.905477,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Cerium",
+            "atomic_mass": 140.1161,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Praseodymium",
+            "atomic_mass": 140.907662,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Neodymium",
+            "atomic_mass": 144.2423,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Promethium",
+            "atomic_mass": 145,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Samarium",
+            "atomic_mass": 150.362,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Europium",
+            "atomic_mass": 151.9641,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Gadolinium",
+            "atomic_mass": 157.253,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Terbium",
+            "atomic_mass": 158.925352,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Dysprosium",
+            "atomic_mass": 162.5001,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Holmium",
+            "atomic_mass": 164.930332,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Erbium",
+            "atomic_mass": 167.2593,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Thulium",
+            "atomic_mass": 168.934222,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Ytterbium",
+            "atomic_mass": 173.0451,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Lutetium",
+            "atomic_mass": 174.96681,
+            "category": "lanthanide"
+        },
+        {
+            "name": "Hafnium",
+            "atomic_mass": 178.492,
+            "category": "transition metal"
+        },
+        {
+            "name": "Tantalum",
+            "atomic_mass": 180.947882,
+            "category": "transition metal"
+        },
+        {
+            "name": "Tungsten",
+            "atomic_mass": 183.841,
+            "category": "transition metal"
+        },
+        {
+            "name": "Rhenium",
+            "atomic_mass": 186.2071,
+            "category": "transition metal"
+        },
+        {
+            "name": "Osmium",
+            "atomic_mass": 190.233,
+            "category": "transition metal"
+        },
+        {
+            "name": "Iridium",
+            "atomic_mass": 192.2173,
+            "category": "transition metal"
+        },
+        {
+            "name": "Platinum",
+            "atomic_mass": 195.0849,
+            "category": "transition metal"
+        },
+        {
+            "name": "Gold",
+            "atomic_mass": 196.9665695,
+            "category": "transition metal"
+        },
+        {
+            "name": "Mercury",
+            "atomic_mass": 200.5923,
+            "category": "transition metal"
+        },
+        {
+            "name": "Thallium",
+            "atomic_mass": 204.38,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Lead",
+            "atomic_mass": 207.21,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Bismuth",
+            "atomic_mass": 208.980401,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Polonium",
+            "atomic_mass": 209,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Astatine",
+            "atomic_mass": 210,
+            "category": "metalloid"
+        },
+        {
+            "name": "Radon",
+            "atomic_mass": 222,
+            "category": "noble gas"
+        },
+        {
+            "name": "Francium",
+            "atomic_mass": 223,
+            "category": "alkali metal"
+        },
+        {
+            "name": "Radium",
+            "atomic_mass": 226,
+            "category": "alkaline earth metal"
+        },
+        {
+            "name": "Actinium",
+            "atomic_mass": 227,
+            "category": "actinide"
+        },
+        {
+            "name": "Thorium",
+            "atomic_mass": 232.03774,
+            "category": "actinide"
+        },
+        {
+            "name": "Protactinium",
+            "atomic_mass": 231.035882,
+            "category": "actinide"
+        },
+        {
+            "name": "Uranium",
+            "atomic_mass": 238.028913,
+            "category": "actinide"
+        },
+        {
+            "name": "Neptunium",
+            "atomic_mass": 237,
+            "category": "actinide"
+        },
+        {
+            "name": "Plutonium",
+            "atomic_mass": 244,
+            "category": "actinide"
+        },
+        {
+            "name": "Americium",
+            "atomic_mass": 243,
+            "category": "actinide"
+        },
+        {
+            "name": "Curium",
+            "atomic_mass": 247,
+            "category": "actinide"
+        },
+        {
+            "name": "Berkelium",
+            "atomic_mass": 247,
+            "category": "actinide"
+        },
+        {
+            "name": "Californium",
+            "atomic_mass": 251,
+            "category": "actinide"
+        },
+        {
+            "name": "Einsteinium",
+            "atomic_mass": 252,
+            "category": "actinide"
+        },
+        {
+            "name": "Fermium",
+            "atomic_mass": 257,
+            "category": "actinide"
+        },
+        {
+            "name": "Mendelevium",
+            "atomic_mass": 258,
+            "category": "actinide"
+        },
+        {
+            "name": "Nobelium",
+            "atomic_mass": 259,
+            "category": "actinide"
+        },
+        {
+            "name": "Lawrencium",
+            "atomic_mass": 266,
+            "category": "actinide"
+        },
+        {
+            "name": "Rutherfordium",
+            "atomic_mass": 267,
+            "category": "transition metal"
+        },
+        {
+            "name": "Dubnium",
+            "atomic_mass": 268,
+            "category": "transition metal"
+        },
+        {
+            "name": "Seaborgium",
+            "atomic_mass": 269,
+            "category": "transition metal"
+        },
+        {
+            "name": "Bohrium",
+            "atomic_mass": 270,
+            "category": "transition metal"
+        },
+        {
+            "name": "Hassium",
+            "atomic_mass": 269,
+            "category": "transition metal"
+        },
+        {
+            "name": "Meitnerium",
+            "atomic_mass": 278,
+            "category": "unknown, probably transition metal"
+        },
+        {
+            "name": "Darmstadtium",
+            "atomic_mass": 281,
+            "category": "unknown, probably transition metal"
+        },
+        {
+            "name": "Roentgenium",
+            "atomic_mass": 282,
+            "category": "unknown, probably transition metal"
+        },
+        {
+            "name": "Copernicium",
+            "atomic_mass": 285,
+            "category": "transition metal"
+        },
+        {
+            "name": "Nihonium",
+            "atomic_mass": 286,
+            "category": "unknown, probably transition metal"
+        },
+        {
+            "name": "Flerovium",
+            "atomic_mass": 289,
+            "category": "post-transition metal"
+        },
+        {
+            "name": "Moscovium",
+            "atomic_mass": 289,
+            "category": "unknown, probably post-transition metal"
+        },
+        {
+            "name": "Livermorium",
+            "atomic_mass": 293,
+            "category": "unknown, probably post-transition metal"
+        },
+        {
+            "name": "Tennessine",
+            "atomic_mass": 294,
+            "category": "unknown, probably metalloid"
+        },
+        {
+            "name": "Oganesson",
+            "atomic_mass": 294,
+            "category": "unknown, predicted to be noble gas"
+        },
+        {
+            "name": "Ununennium",
+            "atomic_mass": 315,
+            "category": "unknown, but predicted to be an alkali metal"
+        }
+    ]
+}
