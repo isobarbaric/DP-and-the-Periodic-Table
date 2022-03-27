@@ -1,6 +1,6 @@
 # DP-and-the-Periodic-Table 
 
-**more details about this project can be found <a href="//bit.ly/dp-ptable" target="_blank">here</a>**
+**more details about this project can be found [here](https://www.mediafire.com/file/dhg0oubz2wfsis8/DP-and-the-Periodic-Table.pdf/file)**
 
 ### Table of Contents
 1. [Motivation and Description](#motivation-and-description-for-this-project)
